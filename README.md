@@ -9,8 +9,8 @@
 - 📫 How to reach me in WhatsApp  **01845555047**
 
 - 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/md-iqbal-hossan-3148161b8/)
-- - 📄 Know about my experiences to see my resume [Resume](https://drive.google.com/file/d/1-SwBq1SYu8fAGkdEUUh8ZTPM5Y8Bzdom/view)
-- - - 📄 Know about my experiences to see my portfolio [Resume](https://portfoli-iqbal-hossan-iqbalhossan99.vercel.app/projects)
+- - 📄 Know about my experiences to see my [Resume](https://drive.google.com/file/d/1-SwBq1SYu8fAGkdEUUh8ZTPM5Y8Bzdom/view)
+- - - 📄 Know about my experiences to see my [Portfolio](https://portfoli-iqbal-hossan-iqbalhossan99.vercel.app/projects)
 
 <!-- ## Blogs posts -->
 
